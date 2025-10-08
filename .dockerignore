@@ -1,5 +1,7 @@
-target
 .git
-.gitignore
+.github
+target
 **/.DS_Store
 README.md
+*.iml
+.idea
